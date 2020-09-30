@@ -1,0 +1,13 @@
+[
+  "test_session9.py::test_readme_exists",
+  "test_session9.py::test_readme_contents",
+  "test_session9.py::test_readme_proper_description",
+  "test_session9.py::test_readme_file_for_formatting",
+  "test_session9.py::test_indentations",
+  "test_session9.py::test_function_name_had_cap_letter",
+  "test_session9.py::test_odd_function_for_even_time",
+  "test_session9.py::test_authenticate_correct_password",
+  "test_session9.py::test_authenticate_incorrect_password",
+  "test_session9.py::test_privileges",
+  "test_session9.py::test_singledispatch"
+]
